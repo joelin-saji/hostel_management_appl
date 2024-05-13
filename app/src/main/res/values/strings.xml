@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_a_user_login">Already a user? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="not_registered_sign_up">Not registered? Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="payments">Payment</string>
+    <string name="issues">Issues</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="staff_management">Staff Management</string>
+    <string name="no_access_provided">No access provided</string>
+    <string name="submit">Submit</string>
+    <string name="room_number">Room Number</string>
+    <string name="issues_email">Email</string>
+    <string name="enter_the_issue">Enter the issue</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="march">March</string>
+    <string name="february">February</string>
+    <string name="january">January</string>
+    <string name="december">December</string>
+    <string name="november">November</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="monthly_payments">Monthly Payments</string>
+    <string name="payment_status">Payment Status</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="country">Country</string>
+    <string name="university">University</string>
+    <string name="gender">Gender</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="issues_history">Issues History</string>
+    <string name="room_num">Room Number: </string>
+    <string name="email_id">Email: </string>
+    <string name="issue">Issue: </string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_your_email_address">Enter your email address:</string>
+</resources>
